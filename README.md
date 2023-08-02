@@ -1,5 +1,7 @@
 # Movie-recommendation-system
 
+![image](https://github.com/atharvabhairam/Project-Movie-Reccomendation-System/assets/91341989/f257d1f5-da5d-4785-ae74-1256a2a804de)
+
 ## About  
 This Content Based Filtering Movie Recommender is built on a [flask app]
 (https://flask.palletsprojects.com/en/2.0.x/) using Python programming 
